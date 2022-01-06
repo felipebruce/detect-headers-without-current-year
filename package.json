@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-detect-headers-without-current-year",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Detect headers without current year.",
   "repository": "https://github.com/felipebruce/detect-headers-without-current-year",
   "homepage": "https://github.com/felipebruce/detect-headers-without-current-year",
